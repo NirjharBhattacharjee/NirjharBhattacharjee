@@ -1,6 +1,6 @@
 <img width="200" height="200" alt="octocat-1789487867393" src="https://github.com/user-attachments/assets/0f9be081-3b74-4816-8a4c-a9d647f7a020" />
 ## Hi there 👋
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="1000">
 <br><br>
 <!--
 **NirjharBhattacharjee/NirjharBhattacharjee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
