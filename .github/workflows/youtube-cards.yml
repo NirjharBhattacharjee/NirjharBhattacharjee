@@ -1,0 +1,26 @@
+name: YouTube Cards
+
+on:
+  schedule:
+    # checks for new videos every hour
+    - cron: "0 * * * *"
+  # lets you run it by hand from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: DenverCoder1/github-readme-youtube-cards@main
+        with:
+          channel_id: UCEu34nU4gy867u8Cy7obc6w
+          max_videos: 6
+          card_width: 250
+          border_radius: 8
+          max_title_lines: 2
+          # catppuccin macchiato in dark mode, catppuccin latte in light mode
+          theme_context_dark: '{ "background_color": "#24273A", "title_color": "#CAD3F5", "stats_color": "#A5ADCB" }'
+          theme_context_light: '{ "background_color": "#EFF1F5", "title_color": "#4C4F69", "stats_color": "#6C6F85" }'
+          commit_message: "chore(readme): update latest youtube videos"

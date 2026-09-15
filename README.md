@@ -54,6 +54,19 @@ I'm a developer who learned to code the open-source way: reading other people's 
 
 </div>
 
+### 🎥 latest drops on [shyanCodes](https://www.youtube.com/@shyanbhattacharjee)
+
+<div align="center">
+
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
+
+<sub><i>updates automatically whenever a new video drops 🔥</i></sub>
+
+<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg" width="100%" alt="divider" />
+
+</div>
+
 ### 🐦 the mockingbird project
 
 ```
