@@ -1,116 +1,52 @@
 <div align="center">
 
-## Hi there 🤙 I'm Shyan
+## Hi, I'm Nirjhar Bhattacharjee 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1200&color=C6A0F6&center=true&vCenter=true&width=540&lines=building+mockingbird+%F0%9F%90%A6;free%2C+local%2C+private+voice+dictation;your+voice+never+leaves+your+machine;coding+in+catppuccin+%F0%9F%98%BC" alt="typing intro" />
+<img src="assets/billboard.svg" width="560" alt="IT + Data Science @ Macquarie University · building mockingbird · free forever" />
 
 <br>
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500" alt="lofi gif">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500" alt="lofi city gif">
 
 <br><br>
 
-<a href="https://www.youtube.com/@shyanbhattacharjee/live">
-  <img src="https://img.shields.io/badge/%E2%97%8F%20LIVE%20on%20YouTube-ED8796?style=for-the-badge&logo=youtube&logoColor=24273A&labelColor=ED8796" alt="Watch live on YouTube" />
-</a>
-
-<sub><i>catch me building mockingbird live — pull up a chair, grab an energy drink ⚡</i></sub>
-
-<br><br>
-
-<a href="https://www.youtube.com/@shyanbhattacharjee"><img src="https://img.shields.io/badge/-YouTube-ED8796?style=for-the-badge&logo=youtube&logoColor=ED8796&labelColor=363A4F" alt="YouTube" /></a>
+<a href="https://www.youtube.com/@shyanbhattacharjee/live"><img src="https://img.shields.io/badge/%E2%97%8F%20LIVE%20on%20YouTube-ED8796?style=for-the-badge&logo=youtube&logoColor=24273A&labelColor=ED8796" alt="Watch live on YouTube" /></a>
 <a href="https://www.linkedin.com/in/nirjhar-/"><img src="https://img.shields.io/badge/-LinkedIn-8AADF4?style=for-the-badge&logo=linkedin&logoColor=8AADF4&labelColor=363A4F" alt="LinkedIn" /></a>
-<a href="https://x.com/ShyanHQ"><img src="https://img.shields.io/badge/-X%20%2F%20Twitter-B7BDF8?style=for-the-badge&logo=x&logoColor=B7BDF8&labelColor=363A4F" alt="X / Twitter" /></a>
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg" width="100%" alt="divider" />
+<a href="https://x.com/ShyanHQ"><img src="https://img.shields.io/badge/-X-B7BDF8?style=for-the-badge&logo=x&logoColor=B7BDF8&labelColor=363A4F" alt="X" /></a>
 
 </div>
 
-### 🧑‍💻 about me
+### 👨‍💻 about me
 
-Learned to code the open-source way, now trying to give back. I build in public and stream it on YouTube.
+I'm studying a **Bachelor of Information Technology, majoring in Data Science** at **Macquarie University** in Sydney.
 
-- 🚀 currently building **mockingbird**, a free and local voice dictation tool
-- 🎧 fuelled by lofi beats, caffeine and 3am commits 💀
-- 🧠 believer in open source, privacy by default, and simple code
+I learned to program by reading, running and breaking open source projects, and I believe in the open source philosophy. Now I want to give back to the community that taught me. I code and build projects in my free time, and what keeps me going is the idea that the tools I make can help make the world a little better.
 
-<div align="center">
+- 🎥 I make videos and stream live on YouTube
+- 🐦 you can also find me on X
 
-<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg" width="100%" alt="divider" />
+### 🐦 mockingbird: my dream project
 
-</div>
+**mockingbird** is a voice transcription tool for macOS that runs entirely on your own machine. Hold a hotkey, speak, and your words show up as clean text in whatever app you're using.
 
-### 🎥 latest drops on [shyanCodes](https://www.youtube.com/@shyanbhattacharjee)
+I'll be contributing to it heavily and I'll keep building it until it's a product people use and learn from. It will stay **free forever**: free to use, free to contribute to, and free to distribute.
 
-<div align="center">
+<img src="https://img.shields.io/badge/TypeScript-8AADF4?style=flat-square&logo=typescript&logoColor=24273A" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Bun-F4DBD6?style=flat-square&logo=bun&logoColor=24273A" alt="Bun" />
+<img src="https://img.shields.io/badge/whisper.cpp-A6DA95?style=flat-square" alt="whisper.cpp" />
+<img src="https://img.shields.io/badge/Ollama-C6A0F6?style=flat-square&logo=ollama&logoColor=24273A" alt="Ollama" />
+<img src="https://img.shields.io/badge/macOS-CAD3F5?style=flat-square&logo=apple&logoColor=24273A" alt="macOS" />
+
+### 🎥 latest on YouTube
 
 <!-- BEGIN YOUTUBE-CARDS -->
+<table>
+<tr><td align="center" width="33%"><a href="https://www.youtube.com/watch?v=mBesaVD_UkA"><img src="https://i.ytimg.com/vi/mBesaVD_UkA/hqdefault.jpg" width="250" alt="Learning an opensource codebase| live" /></a><br><sub>Learning an opensource codebase| live</sub></td><td align="center" width="33%"><a href="https://www.youtube.com/watch?v=xn--3NkuVuQ"><img src="https://i.ytimg.com/vi/xn--3NkuVuQ/hqdefault.jpg" width="250" alt="Learning an opensource codebase| live" /></a><br><sub>Learning an opensource codebase| live</sub></td><td align="center" width="33%"><a href="https://www.youtube.com/watch?v=lMEkskvn7KQ"><img src="https://i.ytimg.com/vi/lMEkskvn7KQ/hqdefault.jpg" width="250" alt="Coding 9-5 because I became unemployed | Day 6 part 2" /></a><br><sub>Coding 9-5 because I became unemployed | Day 6 part 2</sub></td></tr>
+<tr><td align="center" width="33%"><a href="https://www.youtube.com/watch?v=FnnXQzMLpCc"><img src="https://i.ytimg.com/vi/FnnXQzMLpCc/hqdefault.jpg" width="250" alt="Coding 9-5 because I became unemployed | Day 6 part 1" /></a><br><sub>Coding 9-5 because I became unemployed | Day 6 part 1</sub></td><td align="center" width="33%"><a href="https://www.youtube.com/watch?v=ewFkAIZPHIw"><img src="https://i.ytimg.com/vi/ewFkAIZPHIw/hqdefault.jpg" width="250" alt="Coding Until I Become a Backend Engineer | Day 5!" /></a><br><sub>Coding Until I Become a Backend Engineer | Day 5!</sub></td><td align="center" width="33%"><a href="https://www.youtube.com/watch?v=ZMpnFRzNsKA"><img src="https://i.ytimg.com/vi/ZMpnFRzNsKA/hqdefault.jpg" width="250" alt="Coding Until I Become a Backend Engineer | Day 4!" /></a><br><sub>Coding Until I Become a Backend Engineer | Day 4!</sub></td></tr>
+</table>
 <!-- END YOUTUBE-CARDS -->
 
-<sub><i>updates automatically whenever a new video drops 🔥</i></sub>
-
-<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg" width="100%" alt="divider" />
-
-</div>
-
-### 🐦 the mockingbird project
-
-```
-╭───────────────────────────────────╮
-│  ♪ now playing — mockingbird      │
-│  ▶ ━━━━━━━●──────────  hold fn    │
-│      ⇄     ◁◁    ||    ▷▷     ↻   │
-╰───────────────────────────────────╯
-```
-
-**mockingbird** is a free, open-source voice dictation tool that runs **entirely on your machine**. Hold a hotkey, speak, let go — clean, punctuated text lands in whatever app you're in. No account, no cloud, no usage cap.
-
 <div align="center">
-
-**how it works**
-
-<img src="https://img.shields.io/badge/🎙_mic-F5A97F?style=flat-square" alt="mic" />
-→
-<img src="https://img.shields.io/badge/silero_vad-EED49F?style=flat-square" alt="silero vad" />
-→
-<img src="https://img.shields.io/badge/whisper_large--v3--turbo-A6DA95?style=flat-square" alt="whisper" />
-→
-<img src="https://img.shields.io/badge/qwen3--4b_cleanup-8BD5CA?style=flat-square" alt="qwen3 cleanup" />
-→
-<img src="https://img.shields.io/badge/⌨️_typed_into_your_app-8AADF4?style=flat-square" alt="typed into your app" />
-
-</div>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/TypeScript-8AADF4?style=for-the-badge&logo=typescript&logoColor=8AADF4&labelColor=363A4F" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Bun-F4DBD6?style=for-the-badge&logo=bun&logoColor=F4DBD6&labelColor=363A4F" alt="Bun" />
-<img src="https://img.shields.io/badge/SQLite-7DC4E4?style=for-the-badge&logo=sqlite&logoColor=7DC4E4&labelColor=363A4F" alt="SQLite" />
-<img src="https://img.shields.io/badge/whisper.cpp-A6DA95?style=for-the-badge&labelColor=363A4F" alt="whisper.cpp" />
-<img src="https://img.shields.io/badge/Ollama%20%2F%20llama.cpp-C6A0F6?style=for-the-badge&logo=ollama&logoColor=C6A0F6&labelColor=363A4F" alt="Ollama / llama.cpp" />
-<img src="https://img.shields.io/badge/macOS-CAD3F5?style=for-the-badge&logo=apple&logoColor=CAD3F5&labelColor=363A4F" alt="macOS" />
-
-<sub><i>status: v1 design stage · macOS first · windows & linux planned</i></sub>
-
-<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg" width="100%" alt="divider" />
-
-</div>
-
-### 🗿 the mockingbird philosophy
-
-> *the words coming out of your own mouth shouldn't be metered.*
-
-- 💸 **always free** — no paid tier, no credits, no caps
-- 🔒 **local-first** — privacy is the default, enforced in code
-- 🤝 **open to everyone** — to use, contribute to, and get credit for
-
-<br>
-
-<div align="center">
-
-<sub>⚡ stay locked in · keep shipping · your voice stays yours 🔥</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5BDE6,50:C6A0F6,100:8AADF4&height=110&section=footer" width="100%" alt="footer wave" />
 
