@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="720" alt="Nirjhar Bhattacharjee" />
+<img src="assets/name.svg" width="720" alt="Nirjhar Bhattacharjee" />
 
 <img src="assets/billboard.svg" width="560" alt="IT + Data Science @ Macquarie University · building mockingbird · free forever" />
 
