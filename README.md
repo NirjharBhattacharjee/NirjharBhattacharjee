@@ -18,13 +18,9 @@
 
 ### mockingbird
 
-Local voice transcription for macOS. Hold a hotkey, speak, get clean text. **Free forever.**
+<a href="https://github.com/NirjharBhattacharjee/mockingbird"><img src="assets/mockingbird.png" width="360" alt="mockingbird" /></a>
 
-<img src="https://img.shields.io/badge/TypeScript-85A7F5?style=flat-square&logo=typescript&logoColor=16232A" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Bun-D1EFF5?style=flat-square&logo=bun&logoColor=16232A" alt="Bun" />
-<img src="https://img.shields.io/badge/whisper.cpp-96DCCF?style=flat-square" alt="whisper.cpp" />
-<img src="https://img.shields.io/badge/Ollama-C09BF2?style=flat-square&logo=ollama&logoColor=16232A" alt="Ollama" />
-<img src="https://img.shields.io/badge/macOS-8CD4E6?style=flat-square&logo=apple&logoColor=16232A" alt="macOS" />
+Local voice transcription for macOS. Hold a hotkey, speak, get clean text. **Free forever.**
 
 ### latest on YouTube
 
