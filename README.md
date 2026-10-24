@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="560" alt="nirjhar" />
+<img src="assets/banner.svg" width="720" alt="Nirjhar Bhattacharjee" />
 
 <img src="assets/billboard.svg" width="560" alt="IT + Data Science @ Macquarie University · building mockingbird · free forever" />
+
+<br>
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500" alt="lofi city gif">
 
 <br><br>
 
