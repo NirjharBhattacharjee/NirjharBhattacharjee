@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/name.svg" width="720" alt="Nirjhar Bhattacharjee" />
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/name.svg" /><img src="assets/name-light.svg" width="720" alt="Nirjhar Bhattacharjee" /></picture>
 
 <img src="assets/billboard.svg" width="560" alt="IT + Data Science @ Macquarie University · building mockingbird · free forever" />
 
@@ -16,7 +16,7 @@
 
 </div>
 
-<p align="center"><a href="https://github.com/NirjharBhattacharjee/mockingbird"><img src="assets/mockingbird.png" width="360" alt="mockingbird" /></a></p>
+<p align="center"><a href="https://github.com/NirjharBhattacharjee/mockingbird"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/mockingbird.png" /><img src="assets/mockingbird-light.png" width="360" alt="mockingbird" /></picture></a></p>
 
 ### latest on YouTube
 
