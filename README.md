@@ -20,8 +20,6 @@
 
 <p align="center"><a href="https://github.com/NirjharBhattacharjee/mockingbird"><img src="assets/mockingbird.png" width="360" alt="mockingbird" /></a></p>
 
-Local voice transcription for macOS. Hold a hotkey, speak, get clean text. **Free forever.**
-
 ### latest on YouTube
 
 <!-- BEGIN YOUTUBE-CARDS -->
