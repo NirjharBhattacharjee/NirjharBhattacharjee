@@ -16,8 +16,6 @@
 
 </div>
 
-### mockingbird
-
 <p align="center"><a href="https://github.com/NirjharBhattacharjee/mockingbird"><img src="assets/mockingbird.png" width="360" alt="mockingbird" /></a></p>
 
 ### latest on YouTube
