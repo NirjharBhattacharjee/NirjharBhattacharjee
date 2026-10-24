@@ -20,7 +20,7 @@ jobs:
           card_width: 250
           border_radius: 8
           max_title_lines: 2
-          # catppuccin macchiato in dark mode, catppuccin latte in light mode
-          theme_context_dark: '{ "background_color": "#24273A", "title_color": "#CAD3F5", "stats_color": "#A5ADCB" }'
-          theme_context_light: '{ "background_color": "#EFF1F5", "title_color": "#4C4F69", "stats_color": "#6C6F85" }'
+          # mockingbird palette
+          theme_context_dark: '{ "background_color": "#16232A", "title_color": "#D1EFF5", "stats_color": "#8CD4E6" }'
+          theme_context_light: '{ "background_color": "#EAF7FA", "title_color": "#2E4F5B", "stats_color": "#547A88" }'
           commit_message: "chore(readme): update latest youtube videos"
