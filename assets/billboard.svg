@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="560" height="64" viewBox="0 0 560 64" role="img" aria-label="IT + Data Science at Macquarie University · building mockingbird · free forever">
   <style>
-    .panel { fill: #24273A; stroke: #494D64; stroke-width: 1; }
+    .panel { fill: #16232A; stroke: #2E4F5B; stroke-width: 1; }
     .line {
       font: 600 17px ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;
-      fill: #CAD3F5;
+      fill: #D1EFF5;
       opacity: 0;
       animation: drop 12s cubic-bezier(.22, .9, .3, 1) infinite both;
     }
-    .accent { fill: #C6A0F6; }
+    .accent { fill: #8CD4E6; }
     .l2 { animation-delay: 4s; }
     .l3 { animation-delay: 8s; }
     @keyframes drop {
